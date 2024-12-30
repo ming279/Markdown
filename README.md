@@ -49,21 +49,21 @@ int main()
 
 ```
 **超链接**
-   南昌大学网站: https://my.ncu.edu.cn/main.html#/Index
-   <https://my.ncu.edu.cn/main.html#/Index>
-   [南昌大学融合门户](https://my.ncu.edu.cn/main.html#/Index)
-      更多功能：[点击链接][融合门户]
-      更加详细的链接请[点击](https://markdown.com.cn/basic-syntax/links.html)
-**图片**
-   [通过图床]: https://imgse.com/
+   南昌大学网站: https://my.ncu.edu.cn/main.html#/Index   
+   <https://my.ncu.edu.cn/main.html#/Index>   
+   [南昌大学融合门户](https://my.ncu.edu.cn/main.html#/Index)   
+      更多功能：[点击链接][融合门户]   
+      更加详细的链接请[点击](https://markdown.com.cn/basic-syntax/links.html)   
+**图片**   
+   [通过图床]: https://imgse.com/   
 **其他操作**
 - 插入latex公式
    - 行内显示公式：$f(x)=a(x)+b$
    - 块内显示数学公式：$$ $$
 
- **html/css语法**
- ### 流程图
->横向结构
+ **html/css语法**   
+ ### 流程图   
+>横向结构   
  ```mermaid
  graph LR
  A[方形] -->B(圆形)
@@ -72,7 +72,7 @@ int main()
 C-->|a=2| E[结果2]
 
  ```
- >纵向结构
+ >纵向结构   
  ```mermaid
  graph TD
  a[方形]-->b(圆形)
