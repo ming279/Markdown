@@ -49,10 +49,10 @@ int main()
 
 ```
 **超链接**
-   南昌大学网站: https://my.ncu.edu.cn/main.html#/Index   
-   <https://my.ncu.edu.cn/main.html#/Index>   
-   [南昌大学融合门户](https://my.ncu.edu.cn/main.html#/Index)   
-      更多功能：[点击链接][融合门户]   
+  ming279的库：https://github.com/ming279/Markdown/edit/main/README.md   
+  <https://github.com/ming279/Markdown/edit/main/README.md>   
+  [ming279的库](https://github.com/ming279/Markdown/edit/main/README.md)   
+  
       更加详细的链接请[点击](https://markdown.com.cn/basic-syntax/links.html)   
 **图片**   
    [通过图床]: https://imgse.com/   
