@@ -3,7 +3,8 @@
 
 ### <center><font face="宋体" color=blue>wjm</center></font>
 
-<table><tr><td bgcolor=yellow>背景色yellow</td></tr></table>  <br>
+<span style="background-color: yellow;">背景色yellow</span>   
+<span style="background-color: yellow;">高亮文本</span>   
 每个#之后要空一格
 >引用
 >>二级引用
@@ -21,8 +22,8 @@
 4. 输出
    h~2~o
 ## 表格
-|first|second|third|
-| :---- | :-----:|:--- |
+|first word|second word|third word|
+| :---- | :-----:|---: |
 |吃饭|睡觉|打豆豆|
 ## 换行
 随便打一串数字<br>成功换行
