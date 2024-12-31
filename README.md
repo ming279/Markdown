@@ -36,11 +36,13 @@
 **粗体**   
 ***粗斜体***   
 ~~删除~~   
-<u>下划线</u>   
+   
+或<ins>下划线</ins>
 代码块  `<u></u>`   
 - 注脚   
   请大家多多三连[^1]支持   
-
+下标用`<sub></sub>`   
+这是一个<sub>下标</sub>格式
 代码
 ```<table><tr><td bgcolor=yellow>  
 #include<iostream>
