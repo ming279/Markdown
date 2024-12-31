@@ -28,7 +28,7 @@
 随便打一串数字<br>成功换行
 
 *斜体*   
-==高亮==   
+=高亮=   
 **粗体**   
 ***粗斜体***   
 ~~删除~~   
@@ -52,7 +52,6 @@ int main()
   ming279的库：https://github.com/ming279/Markdown/edit/main/README.md   
   <https://github.com/ming279/Markdown/edit/main/README.md>   
   [ming279的库](https://github.com/ming279/Markdown/edit/main/README.md)   
-  
       更加详细的链接请[点击](https://markdown.com.cn/basic-syntax/links.html)   
 **图片**   
    [通过图床]: https://imgse.com/   
