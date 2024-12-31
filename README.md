@@ -2,7 +2,7 @@
 </center>
 
 ### <center><font face="宋体" color=blue>wjm</center></font>
-
+<span style="color: red;">这是一段红色文字</span>   
 <span style="background-color: yellow;">背景色yellow</span>   
 <span style="background-color: yellow;">高亮文本</span>   
 每个#之后要空一格
