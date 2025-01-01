@@ -42,7 +42,7 @@
 - 注脚   
   请大家多多三连[^1]支持   
 下标用`<sub></sub>`   
-这是一个<sub>下标</sub>格式
+这是一个<sub>下标</sub>格式   
 代码
 ```<table><tr><td bgcolor=yellow>  
 #include<iostream>
@@ -53,6 +53,12 @@ int main()
      return 0;
 }
 
+```
+代码高亮：
+```C++
+#include<iostream>
+using namespace std;
+int mian()
 ```
 **超链接**
   ming279的库：https://github.com/ming279/Markdown/edit/main/README.md   
