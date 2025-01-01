@@ -67,6 +67,11 @@ int mian()
 ! 月出惊山鸟，
 # 时鸣春涧中。
 ```
+## 折叠部分
+<detaills>
+<summary>this is detail</summary>
+   we want to know smee
+</detaills>
 **超链接**
   ming279的库：https://github.com/ming279/Markdown/edit/main/README.md   
   <https://github.com/ming279/Markdown/edit/main/README.md>   
