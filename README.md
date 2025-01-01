@@ -68,10 +68,41 @@ int mian()
 # 时鸣春涧中。
 ```
 ## 折叠部分
-<detaills>
-<summary>this is detail</summary>
-   we want to know smee
-</detaills>
+```
+<details>
+
+<summary>Tips for collapsed sections</summary>
+
+### You can add a header
+
+You can add text within a collapsed section. 
+
+You can add an image or a code block, too.
+ ```C++
+   cout<<"Hello World"
+ ```
+</details>
+``` 
+
+> [!NOTE]
+> 只有在```<summary></summary>```之后空一格才能用`###`
+<details>
+
+
+<summary>Tips for collapsed sections</summary>
+
+### You can add a header
+
+You can add text within a collapsed section. 
+
+You can add an image or a code block, too.
+
+ ```C++
+   cout<<"Hello World"
+ ```
+
+</details>
+
 **超链接**
   ming279的库：https://github.com/ming279/Markdown/edit/main/README.md   
   <https://github.com/ming279/Markdown/edit/main/README.md>   
