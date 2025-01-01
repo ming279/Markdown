@@ -17,7 +17,7 @@
    2.
    3.
 3. todot list
-  - [ ] 吃饭
+  - [x] 吃饭
   - [x] 睡觉
 4. 输出
    h~2~o
@@ -59,6 +59,13 @@ int main()
 #include<iostream>
 using namespace std;
 int mian()
+```
+## diff语法   
+```diff
++ 人闲桂花落，
+- 夜静春山空。
+! 月出惊山鸟，
+# 时鸣春涧中。
 ```
 **超链接**
   ming279的库：https://github.com/ming279/Markdown/edit/main/README.md   
